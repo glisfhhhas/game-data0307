@@ -1,4 +1,7 @@
 {
   "LATE": {
-    "reward": 100000
+    "reward": 100000,
     "enabled": true
+  }
+}
+  
