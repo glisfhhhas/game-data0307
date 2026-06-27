@@ -1,7 +1,12 @@
 {
-  "LATE": {
+  "DELAY": {
     "reward": 100000,
     "enabled": true
+  },
+
+  "START": {
+  "reward": 25000,
+  "enabled": true
   }
 }
   
